@@ -1,0 +1,23 @@
+{
+  "name": "cookies-legal",
+  "version": "0.0.0",
+  "description": "An element to add that pesky 'This site uses cookies...' legal notice",
+  "license": "MIT",
+  "main": "cookies-legal.html",
+  "keywords": [
+    "polymer",
+    "web-components",
+    "cookies",
+    "legal"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0",
+    "paper-header-panel": "PolymerElements/paper-header-panel#~1.0.2",
+    "paper-toolbar": "PolymerElements/paper-toolbar#~1.0.2",
+    "paper-button": "PolymerElements/paper-button#~1.0.1"
+  }
+}
